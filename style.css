@@ -244,6 +244,42 @@
   .in >h2{
     padding-top: 180px;
   }
+  .ChooseText{
+    text-align: center;
+  }
+  .miniCard{
+    display: flex;
+  }
+  .cardGroup{
+    display: block;
+  }
+  .card3{
+    text-align: center;
+    border: 2px solid rgb(162, 159, 150);
+    background-color: rgb(162, 159, 150);
+    margin: 200px;
+    border-radius: 8px;
+  }
+    .card1{
+        text-align: center;
+        border: 2px solid rgb(162, 159, 150);
+        background-color: rgb(162, 159, 150);
+        margin: 200px;
+        border-radius: 8px;
+        height: 500px;
+        width: 1500px;
+     }
+     .card2{
+        text-align: center;
+        border: 2px solid rgb(162, 159, 150);
+        background-color: rgb(162, 159, 150);
+        margin: 200px;
+        border-radius: 8px;
+        height: 500px;
+        width: 1500px;
+     }
+
+  
   
   /* APPLYING MEDIA QUERIES */
   @media (max-width: 600px) {
